@@ -1,0 +1,395 @@
+[
+    {
+      "client_name": "Client A",
+      "client_image": "https://example.com/clientA.jpg",
+      "short_description": "Project kickoff meeting",
+      "date": "2024-01-10",
+      "status": "todo"
+    },
+    {
+      "client_name": "Client B",
+      "client_image": "https://example.com/clientB.jpg",
+      "short_description": "Content creation",
+      "date": "2024-01-12",
+      "status": "doing"
+    },
+    {
+      "client_name": "Client C",
+      "client_image": "https://example.com/clientC.jpg",
+      "short_description": "Website redesign",
+      "date": "2024-01-15",
+      "status": "incomplete"
+    },
+    {
+      "client_name": "Client D",
+      "client_image": "https://example.com/clientD.jpg",
+      "short_description": "Marketing campaign",
+      "date": "2024-01-18",
+      "status": "under review"
+    },
+    {
+      "client_name": "Client E",
+      "client_image": "https://example.com/clientE.jpg",
+      "short_description": "Product launch",
+      "date": "2024-01-20",
+      "status": "completed"
+    },
+    {
+        "client_name": "Client F",
+        "client_image": "https://example.com/clientF.jpg",
+        "short_description": "Prototype development",
+        "date": "2024-01-22",
+        "status": "todo"
+      },
+      {
+        "client_name": "Client G",
+        "client_image": "https://example.com/clientG.jpg",
+        "short_description": "Social media strategy",
+        "date": "2024-01-25",
+        "status": "doing"
+      },
+      {
+        "client_name": "Client H",
+        "client_image": "https://example.com/clientH.jpg",
+        "short_description": "SEO optimization",
+        "date": "2024-01-28",
+        "status": "incomplete"
+      },
+      {
+        "client_name": "Client I",
+        "client_image": "https://example.com/clientI.jpg",
+        "short_description": "Client meeting",
+        "date": "2024-01-30",
+        "status": "under review"
+      },
+      {
+        "client_name": "Client J",
+        "client_image": "https://example.com/clientJ.jpg",
+        "short_description": "Product testing",
+        "date": "2024-02-02",
+        "status": "completed"
+      },
+      {
+        "client_name": "Client K",
+        "client_image": "https://example.com/clientK.jpg",
+        "short_description": "Graphic design",
+        "date": "2024-02-05",
+        "status": "todo"
+      },
+      {
+        "client_name": "Client L",
+        "client_image": "https://example.com/clientL.jpg",
+        "short_description": "User interface improvements",
+        "date": "2024-02-08",
+        "status": "doing"
+      },
+      {
+        "client_name": "Client M",
+        "client_image": "https://example.com/clientM.jpg",
+        "short_description": "Market research",
+        "date": "2024-02-10",
+        "status": "incomplete"
+      },
+      {
+        "client_name": "Client N",
+        "client_image": "https://example.com/clientN.jpg",
+        "short_description": "E-commerce platform development",
+        "date": "2024-02-12",
+        "status": "under review"
+      },
+      {
+        "client_name": "Client O",
+        "client_image": "https://example.com/clientO.jpg",
+        "short_description": "Content localization",
+        "date": "2024-02-15",
+        "status": "completed"
+      },
+      {
+        "client_name": "Client P",
+        "client_image": "https://example.com/clientP.jpg",
+        "short_description": "Mobile app UI/UX redesign",
+        "date": "2024-02-18",
+        "status": "todo"
+      },
+      {
+        "client_name": "Client Q",
+        "client_image": "https://example.com/clientQ.jpg",
+        "short_description": "Video production",
+        "date": "2024-02-20",
+        "status": "doing"
+      },
+      {
+        "client_name": "Client R",
+        "client_image": "https://example.com/clientR.jpg",
+        "short_description": "Brand identity creation",
+        "date": "2024-02-22",
+        "status": "incomplete"
+      },
+      {
+        "client_name": "Client S",
+        "client_image": "https://example.com/clientS.jpg",
+        "short_description": "Sales strategy consultation",
+        "date": "2024-02-25",
+        "status": "under review"
+      },
+      {
+        "client_name": "Client T",
+        "client_image": "https://example.com/clientT.jpg",
+        "short_description": "Copywriting and editing",
+        "date": "2024-02-28",
+        "status": "completed"
+      },
+      {
+        "client_name": "Client U",
+        "client_image": "https://example.com/clientU.jpg",
+        "short_description": "Software testing",
+        "date": "2024-03-01",
+        "status": "todo"
+      },
+      {
+        "client_name": "Client V",
+        "client_image": "https://example.com/clientV.jpg",
+        "short_description": "Event planning and management",
+        "date": "2024-03-04",
+        "status": "doing"
+      },
+      {
+        "client_name": "Client W",
+        "client_image": "https://example.com/clientW.jpg",
+        "short_description": "Financial consulting",
+        "date": "2024-03-07",
+        "status": "incomplete"
+      },
+      {
+        "client_name": "Client X",
+        "client_image": "https://example.com/clientX.jpg",
+        "short_description": "Product packaging redesign",
+        "date": "2024-03-10",
+        "status": "under review"
+      },
+      {
+        "client_name": "Client Y",
+        "client_image": "https://example.com/clientY.jpg",
+        "short_description": "Market expansion strategy",
+        "date": "2024-03-12",
+        "status": "completed"
+      },
+      {
+        "client_name": "Client Z",
+        "client_image": "https://example.com/clientZ.jpg",
+        "short_description": "Legal advisory services",
+        "date": "2024-03-15",
+        "status": "todo"
+      },
+      {
+        "client_name": "Client AA",
+        "client_image": "https://example.com/clientAA.jpg",
+        "short_description": "Social media advertising campaign",
+        "date": "2024-03-18",
+        "status": "doing"
+      },
+      {
+        "client_name": "Client BB",
+        "client_image": "https://example.com/clientBB.jpg",
+        "short_description": "UX/UI research and design",
+        "date": "2024-03-20",
+        "status": "incomplete"
+      },
+      {
+        "client_name": "Client CC",
+        "client_image": "https://example.com/clientCC.jpg",
+        "short_description": "SEO audit and optimization",
+        "date": "2024-03-22",
+        "status": "under review"
+      },
+      {
+        "client_name": "Client DD",
+        "client_image": "https://example.com/clientDD.jpg",
+        "short_description": "Content marketing strategy",
+        "date": "2024-03-25",
+        "status": "completed"
+      },
+      {
+        "client_name": "Client EE",
+        "client_image": "https://example.com/clientEE.jpg",
+        "short_description": "Website development",
+        "date": "2024-03-28",
+        "status": "todo"
+      },
+      {
+        "client_name": "Client FF",
+        "client_image": "https://example.com/clientFF.jpg",
+        "short_description": "Product roadmap planning",
+        "date": "2024-03-30",
+        "status": "doing"
+      },
+      {
+        "client_name": "Client GG",
+        "client_image": "https://example.com/clientGG.jpg",
+        "short_description": "Customer feedback analysis",
+        "date": "2024-04-02",
+        "status": "incomplete"
+      },
+      {
+        "client_name": "Client HH",
+        "client_image": "https://example.com/clientHH.jpg",
+        "short_description": "Mobile app development",
+        "date": "2024-04-05",
+        "status": "under review"
+      },
+      {
+        "client_name": "Client II",
+        "client_image": "https://example.com/clientII.jpg",
+        "short_description": "Financial forecasting",
+        "date": "2024-04-08",
+        "status": "completed"
+      },
+      {
+        "client_name": "Client JJ",
+        "client_image": "https://imgur.com/a/kCJj4XC",
+        "short_description": "Brand positioning strategy",
+        "date": "2024-04-10",
+        "status": "todo"
+      },
+      {
+        "client_name": "Client KK",
+        "client_image": "https://example.com/clientKK.jpg",
+        "short_description": "Video content creation",
+        "date": "2024-04-12",
+        "status": "doing"
+      },
+      {
+        "client_name": "Client A",
+        "client_image": "https://example.com/clientA.jpg",
+        "short_description": "Project kickoff meeting",
+        "date": "2024-01-10",
+        "status": "todo"
+      },
+      {
+        "client_name": "Client B",
+        "client_image": "https://example.com/clientB.jpg",
+        "short_description": "Content creation",
+        "date": "2024-01-12",
+        "status": "doing"
+      },
+      {
+        "client_name": "Client C",
+        "client_image": "https://example.com/clientC.jpg",
+        "short_description": "Website redesign",
+        "date": "2024-01-15",
+        "status": "incomplete"
+      },
+      {
+        "client_name": "Client JJ",
+        "client_image": "https://imgur.com/a/kCJj4XC",
+        "short_description": "Brand positioning strategy",
+        "date": "2024-04-10",
+        "status": "todo"
+      },
+      {
+        "client_name": "Client KK",
+        "client_image": "https://example.com/clientKK.jpg",
+        "short_description": "Video content creation",
+        "date": "2024-04-12",
+        "status": "doing"
+      },
+      {
+        "client_name": "Client A",
+        "client_image": "https://example.com/clientA.jpg",
+        "short_description": "Project kickoff meeting",
+        "date": "2024-01-10",
+        "status": "todo"
+      },
+      {
+        "client_name": "Client B",
+        "client_image": "https://example.com/clientB.jpg",
+        "short_description": "Content creation",
+        "date": "2024-01-12",
+        "status": "doing"
+      },
+      {
+        "client_name": "Client C",
+        "client_image": "https://example.com/clientC.jpg",
+        "short_description": "Website redesign",
+        "date": "2024-01-15",
+        "status": "incomplete"
+      },
+      {
+        "client_name": "Client JJ",
+        "client_image": "https://imgur.com/a/kCJj4XC",
+        "short_description": "Brand positioning strategy",
+        "date": "2024-04-10",
+        "status": "todo"
+      },
+      {
+        "client_name": "Client KK",
+        "client_image": "https://example.com/clientKK.jpg",
+        "short_description": "Video content creation",
+        "date": "2024-04-12",
+        "status": "doing"
+      },
+      {
+        "client_name": "Client B",
+        "client_image": "https://example.com/clientB.jpg",
+        "short_description": "Content creation",
+        "date": "2024-01-12",
+        "status": "doing"
+      },
+      {
+        "client_name": "Client C",
+        "client_image": "https://example.com/clientC.jpg",
+        "short_description": "Website redesign",
+        "date": "2024-01-15",
+        "status": "incomplete"
+      },
+      {
+        "client_name": "Client JJ",
+        "client_image": "https://imgur.com/a/kCJj4XC",
+        "short_description": "Brand positioning strategy",
+        "date": "2024-04-10",
+        "status": "todo"
+      },
+      {
+        "client_name": "Client KK",
+        "client_image": "https://example.com/clientKK.jpg",
+        "short_description": "Video content creation",
+        "date": "2024-04-12",
+        "status": "doing"
+      },
+      {
+        "client_name": "Client A",
+        "client_image": "https://example.com/clientA.jpg",
+        "short_description": "Project kickoff meeting",
+        "date": "2024-01-10",
+        "status": "todo"
+      },
+      {
+        "client_name": "Client B",
+        "client_image": "https://example.com/clientB.jpg",
+        "short_description": "Content creation",
+        "date": "2024-01-12",
+        "status": "doing"
+      },
+      {
+        "client_name": "Client C",
+        "client_image": "https://example.com/clientC.jpg",
+        "short_description": "Website redesign",
+        "date": "2024-01-15",
+        "status": "incomplete"
+      },
+      {
+        "client_name": "Client JJ",
+        "client_image": "https://imgur.com/a/kCJj4XC",
+        "short_description": "Brand positioning strategy",
+        "date": "2024-04-10",
+        "status": "todo"
+      },
+      {
+        "client_name": "Client KK",
+        "client_image": "https://example.com/clientKK.jpg",
+        "short_description": "Video content creation",
+        "date": "2024-04-12",
+        "status": "doing"
+      }
+  ]
+  
